@@ -35,8 +35,8 @@ To use this app you need to do the following:
 
 This application allows you to create a database, seed it with information, and then make api requests to and from the database. Currently the api calls allow you to view all products, categories, and tags as well as view them by id number. You can also add new products, categories, and tags. Finally, you can update and delete products, categories, and tags by id number.  
 
-To see how this application works please visit the link below:  
-https://drive.google.com/file/d/1QZnNbFHJA-BMcabMyPD0PFY9XFpxAb6E/view 
+To see how this application works please click on the picture below for a demonstration:  
+[![A video thumbnail shows the application and Insomnia site](./assets/images/demo.png)](https://drive.google.com/file/d/1QZnNbFHJA-BMcabMyPD0PFY9XFpxAb6E/view)
 
 ## Credits
 
